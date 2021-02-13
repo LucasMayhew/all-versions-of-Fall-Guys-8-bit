@@ -8,7 +8,7 @@ Use the X key to show names.
 ## Seasons
 
 ### [Season 5](https://arcade.makecode.com/08827-51312-15843-52556)
-The Valentimes, Birthday, and a Goose party all in one season. Fall guys is now version [6.0](https://arcade.makecode.com/08827-51312-15843-52556).
+Valentines Day, Birthday party, and Goose party all in one season. Fall guys is now version [6.0](https://arcade.makecode.com/08827-51312-15843-52556).
 
 ### [Season 4](https://arcade.makecode.com/03273-23829-98317-59514)
  
