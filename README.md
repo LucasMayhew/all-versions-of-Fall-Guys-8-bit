@@ -5,6 +5,24 @@ Move up down left right with the arrow keys.
 Use the Z key to jump and select stuff.
 Use the X key to show names.
 
+
+## The Easter Bunny And Other Findable Things
+
+
+### The Easter Bunny 
+
+In version 7.5 You can find the Easter Bunny to unlock the Bunny world levels. 
+
+![The Easter Bunny](Bunny.png)
+
+The Easter Bunny is found in a Maze in the Loby.
+
+### The Goose
+
+The Goose is like the Easter bunny and is found like the Easter bunny. It Brings back the levels and Looks from Season 5.
+
+![The Goose](Goose.png)
+
 ## Seasons
 
 ### [Season 5](https://arcade.makecode.com/08827-51312-15843-52556)
