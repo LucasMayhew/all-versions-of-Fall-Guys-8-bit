@@ -13,7 +13,7 @@ Use the X key to show names.
 
 In version 7.5 You can find the Easter Bunny to unlock the Bunny world levels. 
 
-![The Easter Bunny](Bunny.png)
+![The Easter Bunny](Assets/Bunny.png)
 
 The Easter Bunny is found in a Maze in the Loby.
 
@@ -21,7 +21,25 @@ The Easter Bunny is found in a Maze in the Loby.
 
 The Goose is like the Easter bunny and is found like the Easter bunny. It Brings back the levels and Looks from Season 5.
 
-![The Goose](Goose.png)
+![The Goose](Assets/Goose.png)
+
+
+## How to Make your own levels and looks
+The mod look is were you can access your custom looks
+
+![Mod Looks](Assets/modlookandlevels.png)
+
+To make your own looks you have to open up the ettor in makecode arcade. To do this click Edit Code.
+
+![Mod Looks](Assets/howtomod1.png)
+
+once you click Edit Code this will bring you to the makecode project. Then you find a function named Mods. This is what it looks like.
+
+![Mod Looks](Assets/mods1.png)
+
+
+
+
 
 ## Seasons
 
