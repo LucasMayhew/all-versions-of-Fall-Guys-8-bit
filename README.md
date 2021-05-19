@@ -5,13 +5,33 @@ Move up down left right with the arrow keys.
 Use the Z key to jump and select stuff.
 Use the X key to show names.
 
+## Links
+The Latest vershon of fall guys is 7.5
+Here is the links.
+
+[Fall Guys v7.5](https://makecode.com/_XApCjV7yg2f5)
+
+[Fall Guys v6.0](https://arcade.makecode.com/08827-51312-15843-525565)
+
+[Fall Guys v5.0](https://arcade.makecode.com/03273-23829-98317-59514)
+
+[Fall Guys v4.0](https://arcade.makecode.com/20243-71091-25554-72716)
+
+[Fall Guys v3.0](https://arcade.makecode.com/70851-32310-43264-30415)
+
+[Fall Guys v2.0](https://arcade.makecode.com/16614-10237-16635-71376)
+
+[Fall Guys v1.0](https://arcade.makecode.com/09590-50304-11613-18977)
+
+
+
 
 ## The Easter Bunny And Other Findable Things
 
 
 ### The Easter Bunny 
 
-In version 7.5 You can find the Easter Bunny to unlock the Bunny world levels. 
+In version 7.5 and up, you can find the Easter Bunny to unlock the Bunny world levels. 
 
 ![The Easter Bunny](Assets/Bunny.png)
 
@@ -42,6 +62,9 @@ once you click Edit Code this will bring you to the makecode project. Then you f
 
 
 ## Seasons
+
+### [Season 6](https://arcade.makecode.com/08827-51312-15843-52556)
+This Season is inspired by the gold rush!! Fall Guys is now version [7.5](https://makecode.com/_XApCjV7yg2f5).
 
 ### [Season 5](https://arcade.makecode.com/08827-51312-15843-52556)
 Valentines Day, Birthday party, and Goose party all in one season. Fall guys is now version [6.0](https://arcade.makecode.com/08827-51312-15843-52556).
