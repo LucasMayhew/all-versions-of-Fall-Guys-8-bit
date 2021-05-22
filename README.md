@@ -9,7 +9,7 @@ Use the X key to show names.
 The Latest vershon of fall guys is 7.5
 Here is the links.
 
-[Fall Guys v7.5](https://makecode.com/_XApCjV7yg2f5)
+[Fall Guys v7.5](https://makecode.com/_VKh6YFcu4RvR)
 
 [Fall Guys v6.0](https://arcade.makecode.com/08827-51312-15843-525565)
 
@@ -35,13 +35,12 @@ In version 7.5 and up, you can find the Easter Bunny to unlock the Bunny world l
 
 ![The Easter Bunny](Assets/Bunny.png)
 
-The Easter Bunny is found in a Maze in the Loby.
-
 ### The Goose
 
 The Goose is like the Easter bunny and is found like the Easter bunny. It Brings back the levels and Looks from Season 5.
 
 ![The Goose](Assets/Goose.png)
+
 
 
 ## How to Make your own levels and looks
@@ -63,8 +62,8 @@ once you click Edit Code this will bring you to the makecode project. Then you f
 
 ## Seasons
 
-### [Season 6](https://arcade.makecode.com/08827-51312-15843-52556)
-This Season is inspired by the gold rush!! Fall Guys is now version [7.5](https://makecode.com/_XApCjV7yg2f5).
+### [Season 6](https://makecode.com/_VKh6YFcu4RvR)
+This Season is inspired by the gold rush!! Fall Guys is now version [7.5](https://makecode.com/_VKh6YFcu4RvR).
 
 ### [Season 5](https://arcade.makecode.com/08827-51312-15843-52556)
 Valentines Day, Birthday party, and Goose party all in one season. Fall guys is now version [6.0](https://arcade.makecode.com/08827-51312-15843-52556).
