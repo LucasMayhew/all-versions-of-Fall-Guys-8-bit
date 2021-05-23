@@ -92,4 +92,22 @@ Fall guys [v3.0](https://arcade.makecode.com/70851-32310-43264-30415) Has a coup
 ## Mods
 
 
+### Slime mod
+For fall guys 8 bit v7.5 
 
+By: lucasmayhew
+ 
+Here is the 
+[Slime Mod](https://makecode.com/_CECUycEyYJ21)
+
+
+
+### TNT and Mincart mod
+For fall guys 8 bit v7.5 
+
+By: gideonmayhew
+ 
+controllable minecart mod and tnt big explosion mod 
+
+Here is the 
+[TNT and Mincart mod](https://makecode.com/_HejR8uY8H46u)
