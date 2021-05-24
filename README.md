@@ -91,9 +91,19 @@ Fall guys [v3.0](https://arcade.makecode.com/70851-32310-43264-30415) Has a coup
 
 ## Mods
 
+### Unfair Fall Guys Mod
+
+For: fall guys 8 bit v7.5 
+
+By: gideonmayhew  
+
+Here is the 
+[Unfair Fall Guys Mod](
+https://makecode.com/_0dLgD78hLRzh)
+
 
 ### TNT and Mincart mod
-For fall guys 8 bit v7.5 
+For: fall guys 8 bit v7.5 
 
 By: gideonmayhew
  
@@ -105,7 +115,7 @@ Here is the
 
 
 ### Slime mod
-For fall guys 8 bit v7.5 
+For: fall guys 8 bit: v7.5 
 
 By: lucasmayhew
  
