@@ -49,6 +49,9 @@ Here is were I put links to videos that help you add your own levels and looks
 
 * [How to Mod Fall Guys 8 Bit Part 1 Video](https://www.youtube.com/watch?v=yuiFxM9UCZU)
 
+* [How to Mod Fall Guys 8 Bit Part 2 Video](https://www.youtube.com/watch?v=9IuLn_NvIgE&t=4s)
+
+
 
 
 
