@@ -45,25 +45,11 @@ The Goose is like the Easter bunny and is found like the Easter bunny. It Brings
 
 ## How to Make your own levels and looks
 
-Here is were I put links to vedeos that help you add your own levels and looks
+Here is were I put links to videos that help you add your own levels and looks
 
-### How to Mod Fall Guys 8 Bit Part 1
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=yuiFxM9UCZU">
-         <img src="https://img.youtube.com/vi/yuiFxM9UCZU/0.jpg" style="width:100%;">
-      </a>
-</div>
-The mod look is were you can access your custom looks
+* [How to Mod Fall Guys 8 Bit Part 1 Video](https://www.youtube.com/watch?v=yuiFxM9UCZU)
 
-![Mod Looks](Assets/modlookandlevels.png)
 
-To make your own looks you have to open up the ettor in makecode arcade. To do this click Edit Code.
-
-![Mod Looks](Assets/howtomod1.png)
-
-once you click Edit Code this will bring you to the makecode project. Then you find a function named Mods. This is what it looks like.
-
-![Mod Looks](Assets/mods1.png)
 
 
 
