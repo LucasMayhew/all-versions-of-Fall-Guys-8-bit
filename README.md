@@ -95,6 +95,8 @@ For: fall guys 8 bit v7.5
 
 By: gideonmayhew  
 
+this mod is UNFIAR in a way that it is realy hard to win.
+
 Here is the 
 [Unfair Fall Guys Mod](
 https://makecode.com/_0dLgD78hLRzh)
