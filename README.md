@@ -44,6 +44,15 @@ The Goose is like the Easter bunny and is found like the Easter bunny. It Brings
 
 
 ## How to Make your own levels and looks
+
+Here is were I put links to vedeos that help you add your own levels and looks
+
+### How to Mod Fall Guys 8 Bit Part 1
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=yuiFxM9UCZU">
+         <img src="https://img.youtube.com/vi/yuiFxM9UCZU/0.jpg" style="width:100%;">
+      </a>
+</div>
 The mod look is were you can access your custom looks
 
 ![Mod Looks](Assets/modlookandlevels.png)
